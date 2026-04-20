@@ -88,6 +88,4 @@ Customer.txt    -> used when exporting records
 Arnav Goel  
 BCA Student  
 
----
 
-This project was made as part of my coursework to understand how real-world billing systems work using C++.
